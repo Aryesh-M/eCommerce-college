@@ -1,2 +1,1 @@
-# eCommerce-college
-This is my journey of coding with PHP technology.
+This project contains PHP basic eCommerce CRUD functionality.
